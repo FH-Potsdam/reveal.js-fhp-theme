@@ -1,0 +1,21 @@
+@font-face{
+  font-family:'FHPSunOffice';
+  src:url(./FHPSunOffice-Bold.794d98fc.woff) format("woff"),url(./FHPSunOffice-Bold.08b252a6.woff2) format("woff2");
+  font-weight:700;
+  font-display:swap;
+  font-style:normal;
+}
+@font-face{
+  font-family:'FHPSunOffice';
+  src:url(./FHPSunOffice-Regular.fee74b8a.woff) format("woff"),url(./FHPSunOffice-Regular.924c26be.woff2) format("woff2");
+  font-weight:400;
+  font-display:fallback;
+  font-style:normal;
+}
+@font-face{
+  font-family:'FHPSunOffice';
+  src:url(./FHPSunOffice-Italic.cfa2b475.woff) format("woff"),url(./FHPSunOffice-Italic.be0e255e.woff2) format("woff2");
+  font-weight:400;
+  font-display:fallback;
+  font-style:italic;
+}
